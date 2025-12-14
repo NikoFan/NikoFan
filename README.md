@@ -13,7 +13,7 @@
 <br>
 
 [//]: # (Лор)
-## <picture><img src = "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWdjM21hZjExNXhubG4ydmJ3OTczb2M0bnVrM25hcnQ2dDcyNWhjOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8ThKZDPepdNqNwXl9W/giphy.gif?raw=true" width = 35px></picture> Обо мне
+## <picture><img src = "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWdjM21hZjExNXhubG4ydmJ3OTczb2M0bnVrM25hcnQ2dDcyNWhjOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8ThKZDPepdNqNwXl9W/giphy.gif?raw=true" width = 50px></picture> Обо мне
 
 <picture> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWdjM21hZjExNXhubG4ydmJ3OTczb2M0bnVrM25hcnQ2dDcyNWhjOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XbQQ6z0PCS4u3y0yeZ/giphy.gif?raw=true" width = 250px></picture>
 
@@ -25,7 +25,7 @@
 
 <br><br><br><br>
 
-## <picture> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajB4cTJxNWQ3b3diNnA5dDEwazE2eGl0b3NyNGJrOTZnYzBwYTl3dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUEUPd9w4i9uYb5hwe/giphy.gif?raw=true" width="35px"> </picture> Связь со мной
+## <picture> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajB4cTJxNWQ3b3diNnA5dDEwazE2eGl0b3NyNGJrOTZnYzBwYTl3dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUEUPd9w4i9uYb5hwe/giphy.gif?raw=true" width="50px"> </picture> Связь со мной
 
 <p align="center">  
     <a href="https://t.me/+CZoLLh47TkM1ZGYy">
@@ -37,7 +37,7 @@
     </a>
 </p>
 
-### <picture> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWR5NHg2YWtlNjN1a3AydmRrOGlqNjZnMWVxYzk5amNxdDh2cGo3MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ocLF96FpC0y8CRLKCv/giphy.gif?raw=true" width="35px"> </picture> Языки программирования
+### <picture> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWR5NHg2YWtlNjN1a3AydmRrOGlqNjZnMWVxYzk5amNxdDh2cGo3MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ocLF96FpC0y8CRLKCv/giphy.gif?raw=true" width="50px"> </picture> Языки программирования
 
 <p align="center">
   <a href="https://www.python.org" target="_blank">
@@ -58,7 +58,7 @@
 
 </p>
 
-### <picture> <img src = "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDJlbm0yanpmbm9pNTd2Ymh0OWJhOTJreHppcXc3MXZzOW9tMG5mbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rbwIrjiWFN2NWFRnXf/giphy.gif?raw=true" width = 35px>  </picture> Software 
+### <picture> <img src = "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDJlbm0yanpmbm9pNTd2Ymh0OWJhOTJreHppcXc3MXZzOW9tMG5mbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rbwIrjiWFN2NWFRnXf/giphy.gif?raw=true" width = 50px>  </picture> Software 
  
 <p align="center">
   &emsp;
@@ -79,7 +79,7 @@
     <a href="#"><img alt="REST API" src="https://shields.fly.dev/badge/REST API-pink"></a>
 </p>
 
-### <picture> <img src = "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmFkYWFuOTAya2JpeGsxMGN2cDVoam41bmVqb2xqODlxbjhiNzhsMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hi0wFMXiQeDOuwz7W4/giphy.gif?raw=true" width = 35px>  </picture> Операционные системы
+### <picture> <img src = "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmFkYWFuOTAya2JpeGsxMGN2cDVoam41bmVqb2xqODlxbjhiNzhsMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hi0wFMXiQeDOuwz7W4/giphy.gif?raw=true" width = 50px>  </picture> Операционные системы
  
 <p align="center">
   &emsp;
@@ -95,7 +95,7 @@
 
 ## <picture> <img src = "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDl0bjF0b2xtZzV5Yjd0eHk4bW0xbndtb2F0dm5zbjZ5bm5qMWducyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LJP5wim4JgzzIg74wC/giphy.gif?raw=true" width = 50px>  </picture> Github Stats
 
-### <picture> <img src = "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDJlbm0yanpmbm9pNTd2Ymh0OWJhOTJreHppcXc3MXZzOW9tMG5mbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BQ6AWr6XATptpAB8Cx/giphy.gif?raw=true" width = 35px>  </picture> GitHub Profile Stats
+### <picture> <img src = "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDJlbm0yanpmbm9pNTd2Ymh0OWJhOTJreHppcXc3MXZzOW9tMG5mbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BQ6AWr6XATptpAB8Cx/giphy.gif?raw=true" width = 50px>  </picture> GitHub Profile Stats
 
 ---
 
