@@ -1,12 +1,13 @@
-<h1 align="center">
-  Олег Неструев
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzdoNjdjNnRiNms5MXFjNjExeG8zYzY5Z3N2dmtrMTVrNXc3b3hjNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ihLMMriitaM5sccirt/giphy.gif" width="50" style="vertical-align: middle;">
-</h1>
-<p>
+[//]: # (<h1 align="center" style="vertical-align: middle;">)
+[//]: # (### Олег Неструев <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MTI3amx6Ymtub3kycmV3YndrMXJmYmNncnQ5Z20xZm9jamtxdzdsbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jzVz7eumgU2WVvvk7j/giphy.gif" width="50">)
+### Олег Неструев ![sd](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MTI3amx6Ymtub3kycmV3YndrMXJmYmNncnQ5Z20xZm9jamtxdzdsbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jzVz7eumgU2WVvvk7j/giphy.gif)
+[//]: # (</h1>)
+
 <h2>
 	<picture>
 		<img src = "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWdjM21hZjExNXhubG4ydmJ3OTczb2M0bnVrM25hcnQ2dDcyNWhjOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8ThKZDPepdNqNwXl9W/giphy.gif" height="50" width="80" style="vertical-align: middle;">
-	</picture> Лор
+Лор	
+</picture>
 </h2>
 <!-- Список -->
 <picture> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWdjM21hZjExNXhubG4ydmJ3OTczb2M0bnVrM25hcnQ2dDcyNWhjOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XbQQ6z0PCS4u3y0yeZ/giphy.gif?raw=true" style="vertical-align: middle; padding-right: 20px;" width = 250px ></picture>
