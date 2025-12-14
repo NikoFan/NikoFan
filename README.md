@@ -95,17 +95,7 @@
 
 ## <picture> <img src = "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDl0bjF0b2xtZzV5Yjd0eHk4bW0xbndtb2F0dm5zbjZ5bm5qMWducyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LJP5wim4JgzzIg74wC/giphy.gif?raw=true" width = 50px>  </picture> Github Stats
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----	
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=NikoFan&theme=react&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="NikoFan" />
-</p>
-
-</details>
-
-<details><summary><h3><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDJlbm0yanpmbm9pNTd2Ymh0OWJhOTJreHppcXc3MXZzOW9tMG5mbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BQ6AWr6XATptpAB8Cx/giphy.gif?raw=true" width = 35px"> GitHub Profile Stats</h3></summary>  
+### <picture> <img src = "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDJlbm0yanpmbm9pNTd2Ymh0OWJhOTJreHppcXc3MXZzOW9tMG5mbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BQ6AWr6XATptpAB8Cx/giphy.gif?raw=true" width = 35px>  </picture> GitHub Profile Stats
 
 ---
 
@@ -119,10 +109,8 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikoFan&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"
        height="192px"/>
 </a>
-<br/><br/><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>  
 
-</details>
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
