@@ -79,7 +79,7 @@
     <a href="#"><img alt="REST API" src="https://shields.fly.dev/badge/REST API-pink"></a>
 </p>
 
-### <picture> <img src = "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmFkYWFuOTAya2JpeGsxMGN2cDVoam41bmVqb2xqODlxbjhiNzhsMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hi0wFMXiQeDOuwz7W4/giphy.gif?raw=true" width = 50px>  </picture> Операционные системы
+### <picture> <img src = "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmFkYWFuOTAya2JpeGsxMGN2cDVoam41bmVqb2xqODlxbjhiNzhsMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hi0wFMXiQeDOuwz7W4/giphy.gif?raw=true" width = 100px>  </picture> Операционные системы
  
 <p align="center">
   &emsp;
