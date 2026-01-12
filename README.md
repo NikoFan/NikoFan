@@ -93,25 +93,6 @@
 
 <br> 
 
-## <picture> <img src = "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDl0bjF0b2xtZzV5Yjd0eHk4bW0xbndtb2F0dm5zbjZ5bm5qMWducyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LJP5wim4JgzzIg74wC/giphy.gif?raw=true" width = 50px>  </picture> Github Stats
-
-### <picture> <img src = "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDJlbm0yanpmbm9pNTd2Ymh0OWJhOTJreHppcXc3MXZzOW9tMG5mbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BQ6AWr6XATptpAB8Cx/giphy.gif?raw=true" width = 50px>  </picture> GitHub Profile Stats
-
----
-
-<p align="center">  
-    <a href="https://github.com/anuraghazra/github-readme-stats">  
-	    <img alt="NikoFan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NikoFan&show_icons=true&count_private=true&locale=en&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>  
-    </a>  
-<br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="NikoFan's Top Languages"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikoFan&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"
-       height="192px"/>
-</a>
-</p>  
-
-
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
 <p align="center">
