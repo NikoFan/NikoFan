@@ -89,6 +89,8 @@
   &emsp;
     <a href="#"><img src="https://shields.fly.dev/badge/Ubuntu 24.04-orange"></a>
   &emsp;
+  <a href="#"><img src="https://shields.fly.dev/badge/Debian 13-green"></a>
+  &emsp;
 </p>
 
 <br> 
